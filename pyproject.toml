@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "testtask"
+version = "0.1.0"
+description = ""
+authors = ["Alexandr Myshkin"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+flake8 = "^7.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
