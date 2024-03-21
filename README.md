@@ -1,4 +1,4 @@
-# TestTask
+# TestTaskArea
 [![Test and Lint](https://github.com/SanichMyshkin/TestTask/actions/workflows/Test_and_lint.yml/badge.svg)](https://github.com/SanichMyshkin/TestTask/actions/workflows/Test_and_lint.yml)
 ## Задание:
 
