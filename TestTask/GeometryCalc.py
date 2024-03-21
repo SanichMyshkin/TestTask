@@ -34,7 +34,7 @@ class GeometryCalculator:
             # Вычисление площади круга
             >>> circle = Circle(5)
             >>> GeometryCalculator.calculate_area(circle)
-            78.54
+            78.53981633974483
 
             # Вычисление площади прямоугольного треугольника
             >>> triangle = Triangle(3, 4, 5)
@@ -49,7 +49,7 @@ class GeometryCalculator:
             # Вычисление площади ромба
             >>> rhombus = Rhombus(6, 8)
             >>> GeometryCalculator.calculate_area(rhombus)
-            24
+            24.0
 
             # Вычисление площади многоугольника
             >>> polygon = Polygon([(0, 0), (4, 0), (4, 3), (2, 5), (0, 3)])

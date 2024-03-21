@@ -6,3 +6,5 @@ lint:
 	poetry run flake8 --exclude=.venv/
 shell:
 	poetry shell
+install:
+	poetry install
